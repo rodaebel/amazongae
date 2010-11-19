@@ -1,0 +1,2 @@
+AWS_KEY = ""
+SECRET_KEY = ""
